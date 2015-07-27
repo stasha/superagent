@@ -1,6 +1,10 @@
 # SuperAgent [![Build Status](https://travis-ci.org/stasha/superagent.svg?branch=master)](https://travis-ci.org/stasha/superagent)
 
+## This superagent is built to work inside a browser without a need for node server.
+
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/shtylman-superagent.svg)](https://saucelabs.com/u/shtylman-superagent)
+
+
 
 SuperAgent is a small progressive __client-side__ HTTP request library, and __Node.js__ module with the same API, sporting many high-level HTTP client features. View the [docs](http://visionmedia.github.com/superagent/).
 
