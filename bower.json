@@ -1,0 +1,30 @@
+{
+  "name": "superagent",
+  "version": "1.2.4",
+  "homepage": "https://github.com/stasha/superagent",
+  "authors": [
+    "stasha <zstasa@yahoo.com>",
+	"TJ Holowaychuk <tj@vision-media.ca>"
+  ],
+  "description": "Ajax with less suck",
+  "keywords": [
+    "ajax",
+    "multipart",
+    "ajax",
+    "post",
+    "json"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+	"examples",
+	"components.json",
+	"**/*.md",
+	"Makefile",
+	"lib/node"
+  ]
+}
