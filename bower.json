@@ -1,6 +1,6 @@
 {
   "name": "superagent",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "homepage": "https://github.com/stasha/superagent",
   "authors": [
     "stasha <zstasa@yahoo.com>",
@@ -25,9 +25,10 @@
     "test",
     "tests",
 	"examples",
-	"components.json",
+	"component.json",
 	"**/*.md",
 	"Makefile",
-	"lib/node"
+	"lib/node",
+	"package.json"
   ]
 }
