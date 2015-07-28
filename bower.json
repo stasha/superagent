@@ -8,7 +8,7 @@
   ],
   "main": [
   	"lib/client.js"
-  ]
+  ],
   "description": "Ajax with less suck",
   "keywords": [
     "ajax",
