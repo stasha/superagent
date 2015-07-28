@@ -6,6 +6,9 @@
     "stasha <zstasa@yahoo.com>",
 	"TJ Holowaychuk <tj@vision-media.ca>"
   ],
+  "main": [
+  	"lib/client.js"
+  ]
   "description": "Ajax with less suck",
   "keywords": [
     "ajax",
