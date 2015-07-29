@@ -2,7 +2,7 @@
   "name": "superagent",
   "repo": "visionmedia/superagent",
   "description": "awesome http requests",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "keywords": [
     "http",
     "ajax",
@@ -13,7 +13,6 @@
     "lib/client.js"
   ],
   "main": "lib/client.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "license": "MIT"
 }
