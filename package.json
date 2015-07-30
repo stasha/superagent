@@ -3,6 +3,8 @@
   "version": "1.2.7",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
+	"build": "npm run minify",
+	"minify": "node .minify.js",
     "test": "make test"
   },
   "keywords": [
@@ -44,7 +46,8 @@
     "should": "~3.1.3",
     "zuul": "~1.19.0",
     "browserify": "~6.3.2",
-    "Base64": "~0.3.0"
+    "Base64": "~0.3.0",
+	"node-minify": "*"
   },
   "browser": {
     "./lib/node/index.js": "./lib/client.js",
