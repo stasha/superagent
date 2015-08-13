@@ -353,7 +353,7 @@ it('POST json default', function(next){
   });
 });
 
-/*it('POST json contentType charset', function(next){
+it('POST json contentType charset', function(next){
   request
   .post('/echo')
   .set('Content-Type', 'application/json; charset=UTF-8')
@@ -363,7 +363,7 @@ it('POST json default', function(next){
     next();
   });
 });
-*/
+
 it('POST multiple .send() calls', function(next){
   request
   .post('/pet')
