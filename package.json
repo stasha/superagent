@@ -3,7 +3,8 @@
   "version": "1.2.0",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
-	"build": "npm run minify",
+	"build" : "browserify lib/client.js -o lib/client-browser.js",
+	"postbuild": "npm run minify",
 	"minify": "node .minify.js",
     "test": "make test"
   },
