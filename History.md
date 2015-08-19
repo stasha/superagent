@@ -1,3 +1,9 @@
+# 1.2.1 (2015-08-20)
+
+ * make client.js available to browser without
+ * using node.js by simpli including
+ * client-browser.js or client-browser.min.js
+
 # 1.2.0 (2015-04-13)
 
  * add progress events to downlodas

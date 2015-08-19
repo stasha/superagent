@@ -1,6 +1,6 @@
 {
   "name": "superagent",
-  "version": "1.2.0",
+  "version": "1.2.8",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
 	"build" : "browserify lib/client.js -o lib/client-browser.js",
